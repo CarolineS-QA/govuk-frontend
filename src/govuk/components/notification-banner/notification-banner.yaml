@@ -18,7 +18,7 @@ params:
 - name: titleHeadingLevel
   type: string
   required: false
-  description: Sets heading level. The minimum is `1`. The maximum is `6`. The default is `2`.
+  description: Sets heading level for the title only. The minimum is `1`. The maximum is `6`. The default is `2`.
 - name: type
   type: string
   required: false
