@@ -2,7 +2,7 @@ params:
 - name: text
   type: string
   required: true
-  description: The text that displays in the notification banner. If you set `html`, this is not required and the `text` option is ignored.
+  description: The text that displays in the notification banner. If you set `html`, this option is not required and is ignored.
 - name: html
   type: string
   required: true
