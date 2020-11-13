@@ -1,4 +1,4 @@
-–params:
+params:
 - name: text
   type: string
   required: true
