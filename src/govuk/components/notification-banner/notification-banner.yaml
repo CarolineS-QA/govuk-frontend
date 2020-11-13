@@ -30,7 +30,7 @@ params:
 - name: titleId
   type: string
   required: false
-  description: `id` for the `aria-labelledby` attribute, which provides information to users of assistive technologies. Overrides the value of the `id` attribute for the title. If you set `role` to `region`, `id` defaults to `govuk-notification-banner-title`. If you set `type` to `success` or `error`, `id` is not rendered by default.
+  description: "`id` for the `aria-labelledby` attribute, which provides information to users of assistive technologies. Overrides the value of the `id` attribute for the title. If you set `role` to `region`, `id` defaults to `govuk-notification-banner-title`. If you set `type` to `success` or `error`, `id` is not rendered by default."
 - name: disableAutoFocus
   type: boolean
   required: false
